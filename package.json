@@ -1,0 +1,33 @@
+{
+  "name": "tycooncomp",
+  "version": "1.0.0",
+  "description": "for fun",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.2.1",
+    "compilex": "^0.5.0",
+    "cuid": "^1.2.5",
+    "express": "^4.12.4",
+    "titon-toolkit": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rookieokky/finalProject.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "compilex"
+  ],
+  "author": "okky tycoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rookieokky/finalProject/issues"
+  },
+  "homepage": "https://github.com/Rookieokky/finalProject#readme"
+}
